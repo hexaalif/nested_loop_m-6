@@ -1,0 +1,1 @@
+printf("your output: %d", a);
